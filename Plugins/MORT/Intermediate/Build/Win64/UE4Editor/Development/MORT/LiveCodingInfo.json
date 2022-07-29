@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MORT.cpp.obj": [
+			"MORT.cpp.obj",
+			"MORTEditorWidgetClass.cpp.obj"
+		],
+		"Module.MORT.gen.cpp.obj": [
+			"MORT.init.gen.cpp.obj",
+			"MORTEditorWidgetClass.gen.cpp.obj"
+		]
+	}
+}

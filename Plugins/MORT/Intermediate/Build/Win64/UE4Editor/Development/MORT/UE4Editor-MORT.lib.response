@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MORT.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\FairyGUI-unreal-example-main20220718\FairyGUI-unreal-example-main20220313\FairyGUI-unreal-example-main\Intermediate\Build\Win64\FGUITestProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"G:\FairyGUI-unreal-example-main20220718\FairyGUI-unreal-example-main20220313\FairyGUI-unreal-example-main\Plugins\MORT\Intermediate\Build\Win64\UE4Editor\Development\MORT\Module.MORT.cpp.obj"
+"G:\FairyGUI-unreal-example-main20220718\FairyGUI-unreal-example-main20220313\FairyGUI-unreal-example-main\Plugins\MORT\Intermediate\Build\Win64\UE4Editor\Development\MORT\Module.MORT.gen.cpp.obj"
+"G:\FairyGUI-unreal-example-main20220718\FairyGUI-unreal-example-main20220313\FairyGUI-unreal-example-main\Plugins\MORT\Intermediate\Build\Win64\UE4Editor\Development\MORT\Default.rc2.res"
+/OUT:"G:\FairyGUI-unreal-example-main20220718\FairyGUI-unreal-example-main20220313\FairyGUI-unreal-example-main\Plugins\MORT\Intermediate\Build\Win64\UE4Editor\Development\MORT\UE4Editor-MORT.lib"
